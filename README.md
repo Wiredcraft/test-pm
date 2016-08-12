@@ -31,7 +31,8 @@ Here's what you should aim for:
 
 - We'll give you an outline of the development team you can work with, it's a good idea to keep this in mind when making the work breadown structure. 
 
-- We're treating this as a test scenario of a hypothetical real-world case, so you can make requests for additional information or resources, pitch alternate solutions, and question the requirements and constraints. 
+- We're treating this as a test scenario of a hypothetical real-world case, so you can make requests for additional information or resources, pitch alternate solutions, and question the requirements and constraints. We'll be looking at your communication style as well. 
+
 
 
 ## FAQ's
